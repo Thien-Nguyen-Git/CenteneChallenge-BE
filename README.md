@@ -6,7 +6,7 @@ Technology: Spring Cloud, JPA, Spring Boot, MySQL
 
 ## Structure
 
-Spring Application
-Controller
-Model
-Service
+- Spring Application
+- Controller
+- Model
+- Service
