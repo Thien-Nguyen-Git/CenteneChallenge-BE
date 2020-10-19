@@ -10,3 +10,16 @@ Technology: Spring Cloud, JPA, Spring Boot, MySQL
 - Controller
 - Model
 - Service
+
+## API
+### GET Request
+`GET /enrollee/{enrollee_id}`
+
+### POST Request
+`POST /add/enrollee`
+
+### PUT Request
+`PUT /update/enrollee`
+
+### DELETE Request
+`DELETE /delete/enrollee/{id}`
